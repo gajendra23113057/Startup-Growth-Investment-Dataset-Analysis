@@ -4,7 +4,7 @@
 DAI Assignment 1 - Startup Growth Investment Dataset Analysis
 
 ### **Author:**
-Aditya - 23112006
+gejendra nagar 23113057
 
 ### **Project Overview:**
 This project analyzes startup growth and investment trends using a dataset containing details about funding rounds, investment amounts, valuations, number of investors, industries, countries, and growth rates. The goal is to identify key factors driving startup success and investment patterns for better decision-making.
